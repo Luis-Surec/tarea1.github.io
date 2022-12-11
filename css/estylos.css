@@ -1,0 +1,146 @@
+
+
+body{
+
+  display: flex;
+  flex-direction: column;
+  
+  }
+
+  body{
+
+    background-image: url(/img/img_pr.webp);
+    opacity: .8;
+   /* top:0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index:-1;*/
+    }
+  
+ 
+
+
+
+      
+.img-hero{
+  margin-top: 10%;
+  border-radius:50%;
+  width: 300px;
+  height: 300px;
+  
+  }
+
+
+
+.abs-center{ 
+  display: flex;
+  flex-direction: column;
+  font-family: 'Rubik Dirt', cursive;
+  color: rgb(98, 160, 231);
+  align-items: center;
+  align-content: center;
+  margin-top: 1%;
+  margin: 0 15%;
+  
+  }
+
+
+
+.navbar {
+  display: flex;
+  flex-direction: column;
+  font-family: 'Rubik Dirt', cursive;
+  color: rgb(98, 160, 231);
+  align-items: center;
+  align-content: center;
+  margin-top: 1%;
+  margin: 0 15%;
+  
+}
+
+
+     .accordion{
+
+
+      margin:5% auto;
+      display: flex;
+      flex-direction: column;
+      width: 50%;
+      align-items: center;
+      align-content: center;
+        }
+      
+
+
+        .accordion-item{
+          
+          margin:0 auto;
+          display: flex;
+          flex-direction: column;
+          width: 75%;
+          align-items: center;
+          align-content: center;
+            }
+
+
+        li{  
+        
+          transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+          border-radius: 5px;
+          }
+          
+
+
+          .carousel{
+            border-radius: 20px;
+          background-color: rgb(238, 235, 235);
+            margin:0 auto;
+            margin-bottom: 10%;
+            display: flex;
+            flex-direction: row;
+            width: 50%;
+            align-items: center;
+            align-content: center;
+              }
+
+
+           .text{
+            border-radius: 20px;
+          background-color: rgb(42, 149, 165);
+          color:rgb(157, 204, 62);
+         
+                
+                }
+
+                .text1{
+                  border-radius: 10px;
+                  background-color: rgb(136, 42, 165);
+                  color:rgb(174, 178, 71);
+                  margin-bottom:-2%;      
+                        
+                        }
+        
+
+
+.d-block{
+display: flex;
+direction: column;
+margin:10% auto;
+width: 200px;
+height: 200px;
+
+}
+
+.letra{
+  width: 50%;
+  margin:10px auto;
+  font-size: 25px;
+text-align: center;
+color: aliceblue;
+  font-family: 'Alfa Slab One', cursive;
+  font-family: 'Orbitron', sans-serif;
+  font-family: 'Roboto Mono', monospace;
+  font-family: 'Satisfy', cursive;
+
+}
